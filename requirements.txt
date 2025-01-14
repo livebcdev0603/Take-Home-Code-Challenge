@@ -1,0 +1,11 @@
+requests
+wemake-python-styleguide
+mypy
+flake8
+pycodestyle
+isort
+django-coverage-plugin
+coverage
+django-stubs
+pydantic
+types-requests
